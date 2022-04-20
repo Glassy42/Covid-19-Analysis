@@ -12,7 +12,11 @@ The null hypothesis for all questions is that there is no relationship between v
 
 # References
 Data on COVID-19 (coronavirus) by Our World in Data, https://github.com/owid/covid-19-data/ tree/master/public/data (Dec 12, 2021) Selva Prabhakaran, Linear Regression, http://r-statistics.co/Linear-Regression.html (Dec 12, 2021) 
+
 University of Virginia Library, Understanding Diagnostic Plots for Linear Regression Analysis, https://data.library.virginia.edu/diagnostic-plots/ (Dec 13, 2021) 
+
 Zach, How to Interpret a Scale-Location Plot (With Examples), Statology, Nov 25.2020, https:// www.statology.org/scale-location-plot/ (Dec 13, 2021) 
+
 Zach, Understanding the Null Hypothesis for Linear Regression, Statology, May 14.2021, https:// www.statology.org/null-hypothesis-for-linear-regression/ (Dec 13, 2021) 
+
 Zach, What is a Residuals vs. Leverage Plot? (Definition & Example), Statology, Sep 7.2021, https://www.statology.org/residuals-vs-leverage-plot/ (Dec 13, 2021)
